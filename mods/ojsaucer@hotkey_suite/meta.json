@@ -3,7 +3,7 @@
   "title": "Hotkey Suite",
   "author": "ojsaucer",
   "summary": "Keyboard and gamepad hotkeys for autofire, menus, travel, battle commands, ball select and battle text, in one OPTIONS hub. Every module ships OFF and unbound.",
-  "version": "1.9.1",
+  "version": "1.10.0",
   "categories": ["QOL", "UI", "TOOL"],
   "tags": [
     "hotkeys",
@@ -18,7 +18,7 @@
   "github": "ojsaucer/gen1recomp-hotkey-suite",
   "automatic_version_check": true,
   "api": 2,
-  "games": ["red", "blue", "yellow"],
+  "games": ["red", "blue", "yellow", "gold", "gen2"],
   "profile": "content",
   "permissions": ["engine_internals"],
   "conflicts": ["autofire_hotkey", "menu_hotkeys", "radial_menu"],
