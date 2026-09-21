@@ -1,8 +1,9 @@
 # Hotkey Suite
 
-Keyboard and gamepad hotkeys for the things Gen 1 makes you walk through a menu
-for. Seven modules share one hub at `OPTIONS > HOTKEY SUITE`, so binds live in
-one place instead of scattered across a mod list.
+Keyboard and gamepad hotkeys for the things the games make you walk through a
+menu for, on Red, Blue and Yellow and on Gold, Silver and Crystal. Seven
+modules share one hub at `OPTIONS > HOTKEY SUITE`, so binds live in one place
+instead of scattered across a mod list.
 
 **Everything ships off.** Every module has its own `ENABLED` switch that starts
 `OFF` with nothing bound, so installing the suite changes nothing until you opt
@@ -32,6 +33,11 @@ path does not pick up on its own.
 ## Compatibility
 
 - Mod API 2, `content` profile: link play is unaffected.
+- Runs on both generations from the same install, with the same modules, the
+  same settings and the same bindings. Nothing is keyed to which game is
+  running: every generation difference is probed for. Where Gold labels the
+  same menus PACK, OPTION and STATUS to Red's ITEM, OPTIONS and trainer card,
+  those bind to one hotkey across both.
 - Adapts to modded battle UIs, drawing its legend against the live playfield
   rather than fixed coordinates, so it stays on screen in portrait on mobile.
 - Integrates with **Kanto Ascendant** when present, relocating its START-menu
@@ -43,7 +49,7 @@ path does not pick up on its own.
 
 ## Install
 
-1. Download `hotkey_suite-1.9.1.zip` from the releases page.
+1. Download `hotkey_suite-1.10.0.zip` from the releases page.
 2. In the launcher, MODS → **Import mod .zip**.
 3. Open `OPTIONS > HOTKEY SUITE`, enable a module, and assign its hotkeys.
 
