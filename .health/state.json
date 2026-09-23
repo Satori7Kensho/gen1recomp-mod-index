@@ -1,10 +1,4 @@
 {
   "version": 1,
-  "failing": {
-    "mods/MarsCrowley@mars_expanded_kanto": {
-      "strikes": 3,
-      "since": "2026-09-22T21:02:39.211Z",
-      "reason": "downloadURL returned HTTP 404"
-    }
-  }
+  "failing": {}
 }
