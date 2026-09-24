@@ -3,6 +3,11 @@
 ### What’s New in v1.3.0
 - **FireRed & LeafGreen support** added
 - New independent option for **shiny in-game NPC trades**
+- 
+### Changes in v1.3.1
+- Updated display name to “Shiny Starters, Gifts & NPC Trades”
+- Minor cosmetic and documentation polish
+- No functional changes
 
 ### Options (all independent, default ON)
 - **SHINY STARTERS** – Makes the starter from Oak’s or Elm’s lab shiny
